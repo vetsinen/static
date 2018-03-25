@@ -1,1 +1,1 @@
-# static
+# static site for github
